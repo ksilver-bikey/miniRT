@@ -1,0 +1,7 @@
+../miniRT "Inside objects/Light inside sphere.rt"
+../miniRT "Inside objects/Light outside sphere.rt"
+../miniRT "Inside objects/Light outside cylinder.rt"
+../miniRT "Inside objects/Light inside cylinder.rt"
+../miniRT "Inside objects/Shadow inside sphere.rt"
+../miniRT "Inside objects/Shadow outside sphere.rt"
+../miniRT "Inside objects/Shadow inside cylinder.rt"

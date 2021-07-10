@@ -1,0 +1,8 @@
+../miniRT "check list/5bs plane.rt"
+../miniRT "check list/5bs sphere.rt"
+../miniRT "check list/5bs cylinder.rt"
+../miniRT "check list/5bs triangle.rt"
+../miniRT "check list/TaR spheres.rt"
+../miniRT "check list/TaR cylinders.rt"
+../miniRT "check list/One more scene.rt"
+../miniRT "check list/cpad.rt"

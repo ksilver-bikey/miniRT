@@ -1,0 +1,7 @@
+../miniRT "Shadows/Shadow from back Sphere.rt"
+../miniRT "Shadows/Shadow from back cylinder1.rt"
+../miniRT "Shadows/Shadow from back cylinder2.rt"
+../miniRT "Shadows/Shadow from back cylinder3.rt"
+../miniRT "Shadows/Shadow from back square.rt"
+../miniRT "Shadows/Shadow from back triangle.rt"
+../miniRT "Shadows/multyshadows.rt"
